@@ -1,11 +1,10 @@
 # Heart Attack Analysis
 
- Heart Attack EDA and Prediction Models
+## Heart Attack EDA and Prediction Models
 
- ### Variable definitions in the dataset
+### Variable definitions in the dataset
 
 - **age**: age of the patient (in years)
-
 - **sex**: sex of the patient
     - 0: female
     - 1: male
