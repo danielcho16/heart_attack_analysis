@@ -1,7 +1,10 @@
-# heart_attack_analysis
- Heart Attack EDA
+# Heart Attack Analysis
 
- ### Variable definitions in the Dataset
+## Heart Attack EDA and Prediction Models
+
+[Full Jupyter Notebook](https://github.com/danielcho16/heart_attack_analysis/blob/0d86649264b25699fdb60c1cf7d2f6049c524edb/heart_attack.ipynb)
+
+### Variable definitions in the dataset
 
 - **age**: age of the patient (in years)
 - **sex**: sex of the patient
@@ -38,3 +41,7 @@
 - **output**: the predicted attribute
     - 0: less chance of heart attack
     - 1: more chance of heart attack
+
+### EDA
+
+### Prediction Models
