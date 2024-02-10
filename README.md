@@ -11,7 +11,7 @@
 
 This project uses the provided dataset and creates prediction models to analyze the likelihood of heart attacks in individuals based on various variables.
 
-Full analysis can be found [here](heart_attack.ipynb).
+Full analysis can be found [here](heart_attack.ipynb)
 
 ----
 
